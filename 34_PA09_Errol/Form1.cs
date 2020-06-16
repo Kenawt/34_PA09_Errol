@@ -26,7 +26,7 @@ namespace _34_PA09_Errol
                 double AmountEntered;
                 double convertedValue;
                 //checking for null button
-                if ((rdb_USD.Checked == false) && (rdb_JP.Checked == false))
+                if ((rdb_USD.Checked == false) && (rdb_JP.Checked == false) && (rdb_MY.Checked == false))
                     txt_ConvertedAmt.Text = "Select at least one type of currency to convert.";
 
                 if (rdb_USD.Checked == true)
@@ -41,6 +41,13 @@ namespace _34_PA09_Errol
                     convertedValue = AmountEntered * 81.97;
                     txt_ConvertedAmt.Text = convertedValue.ToString();
                 }
+
+                if (rdb_MY.Checked == true)
+                {
+                    AmountEntered = double.Parse(txt_Amount.Text);
+                    convertedValue = AmountEntered * 3.01;
+                    txt_ConvertedAmt.Text = convertedValue.ToString();
+                }
             }
             catch(FormatException)
             {
@@ -53,6 +60,7 @@ namespace _34_PA09_Errol
         {
             rdb_JP.Checked = false;
             rdb_USD.Checked = false;
+            rdb_MY.Checked = false;
             txt_Amount.Text = "";
             txt_ConvertedAmt.Text = "";
         }
