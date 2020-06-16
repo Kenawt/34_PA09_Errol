@@ -1,0 +1,10 @@
+C:\Users\Christina Tay\Desktop\34_PA09_Errol\bin\Debug\34_PA09_Errol.exe.config
+C:\Users\Christina Tay\Desktop\34_PA09_Errol\bin\Debug\34_PA09_Errol.exe
+C:\Users\Christina Tay\Desktop\34_PA09_Errol\bin\Debug\34_PA09_Errol.pdb
+C:\Users\Christina Tay\Desktop\34_PA09_Errol\obj\Debug\34_PA09_Errol.csprojAssemblyReference.cache
+C:\Users\Christina Tay\Desktop\34_PA09_Errol\obj\Debug\_34_PA09_Errol.Form1.resources
+C:\Users\Christina Tay\Desktop\34_PA09_Errol\obj\Debug\_34_PA09_Errol.Properties.Resources.resources
+C:\Users\Christina Tay\Desktop\34_PA09_Errol\obj\Debug\34_PA09_Errol.csproj.GenerateResource.cache
+C:\Users\Christina Tay\Desktop\34_PA09_Errol\obj\Debug\34_PA09_Errol.csproj.CoreCompileInputs.cache
+C:\Users\Christina Tay\Desktop\34_PA09_Errol\obj\Debug\34_PA09_Errol.exe
+C:\Users\Christina Tay\Desktop\34_PA09_Errol\obj\Debug\34_PA09_Errol.pdb
